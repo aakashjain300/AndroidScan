@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="period">Period : </string>
+    <string name="and">and</string>
+    <string name="norecords">No records found</string>
+
+    <string name="set_param">Set Parameter</string>
+    <string name="select_value">Select Value</string>
+</resources>
